@@ -1,0 +1,1 @@
+jdbc:sqlserver://logimove-server.database.windows.net:1433;database=LogiMoveDB;user=LogiMoveUser@logimove-server;password=AM~"zG'V^Fs5}7j;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;

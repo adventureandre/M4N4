@@ -1,0 +1,6 @@
+user: LogiMoveUser
+senha: AM~"zG'V^Fs5}7j
+server: logimove-server
+
+
+sqlcmd -S tcp:logimove-server.database.windows.net,1433 -d LogiMoveDB -U LogiMoveUser -P 'AM~"zG'\''V^Fs5}7j' -N -l 30
